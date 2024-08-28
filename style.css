@@ -11,19 +11,16 @@ h1#principal {
 font-size: 30 pt;
 font-family: Arial;
 color: blue;
-background-color: #0000FF;
 }
 
 h1#secundario {
 font-size: 20 pt;
 font-family: Arial;
 color: red;
-background-color: #FF0000;
 }
 
 .intermediario {
 font-size: 15 pt;
 font-family: Time News Roman;
 color: black;
-background-color: #000000;
 }
